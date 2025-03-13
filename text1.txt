@@ -1,0 +1,9 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3231-2916
+
+ Directory of C:\GitProjects
+
+13/03/2025  14:25    <DIR>          .
+13/03/2025  14:25                 0 text1.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  893.406.212.096 bytes free
